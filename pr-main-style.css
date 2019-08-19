@@ -1,0 +1,155 @@
+
+
+.buttos{
+	font-family: "Comic Sans MS";
+	padding: 3px 2px;
+	margin-left: 500px;
+	color: aqua;
+	display: inline-block;
+	font-size: 10px;
+	border-radius: 5px;
+	background-color: white;
+	width: 80px;
+	height: 28px;
+	padding-right: 2px;
+
+}
+.butto{
+	font-family: "Comic Sans MS";
+	padding: 3px 2px;
+	color: aqua;
+	display: inline-block;
+	border-color: silver;
+	
+	border-radius: 5px;
+	background-color: white;
+	width: 60px;
+	height: 28px;
+	margin-left: 100px;
+}
+.aaa{
+	margin-top:100px;
+	width:180px;
+	background-color: green;
+	.opacity:.8;
+	margin-left:800px;
+	font-size:30px;
+}
+.bbb{
+
+	width:280px;
+	background-color: green;
+	.opacity:.8;
+	
+	font-size:30px;
+}
+}
+.imag{
+	width:500px;
+	height:300px;
+}
+ab{
+	background-color: green;
+}
+.a{
+
+	margin-left:200px;
+	width:180px;
+	height:150px;
+}
+.b{
+	
+	padding-left:300px;
+	width:180px;
+	height:150px;
+}
+.c{
+	margin-left: 250px;
+	width:180px;
+	height:150px;
+}
+.d{
+	padding-left: 200px;
+	width:180px;
+	height:150px;
+}
+.e{
+	margin-left: 300px;
+	width:180px;
+	height:150px;
+}
+.f{
+	padding-left: 100px;
+	width:180px;
+	height:150pxs;
+}
+.g{
+	margin-left: 450px;
+	width:180px;
+	height:150px;
+}
+.aa{
+font-size:100px;
+color:white;
+}
+
+ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+
+}
+
+ul li{
+	float: left;
+	width:430px;
+	height:40px;
+	background-color: black;
+	opacity: .8;
+	line-height: 40px;
+	text-align: center;
+	font-size:20px;
+	
+}
+ul li a{
+	text-decoration: none;
+	color:pink;
+	display: block;
+}
+ul li a:hover{
+	background-color: green;
+}
+ul li ul li{
+	display: none;
+}
+ul li:hover ul li{
+	display: block;
+}
+body{
+	padding: 0;
+	background-position: left;
+	background-attachment: fixed;
+	margin:0;
+	background-size: 99%;
+	background-repeat: no-repeat;
+	/*background-blend-mode: lighten;*/
+}
+marquee{
+	font-family: "Comic Sans MS";
+	color: fuchsia;
+	font-size:60px;
+}
+h1
+{
+	font-family: Comic Sans MS;
+	color:yellow;
+	font-size:40px;
+}
+
+p{
+	margin-left: 200px;
+	margin-top:200px;
+	font-size:20px;
+	color:magenta;
+}
+
